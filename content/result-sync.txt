@@ -1,0 +1,1 @@
+here is the result : /n hello this is the first text file, /n hello this is the second text filehere is the result : /n hello this is the first text file, /n hello this is the second text file
